@@ -37,7 +37,7 @@
                     }
                 }
 
-                userManager.CreateAsync(new Client { Email = adminEmail ,EmailConfirmed=true, });
+                
             }
         }
     }
